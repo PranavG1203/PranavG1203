@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pranavg2016@gmail.com**
 
-- ⚡ Fun fact **People change people**
+- ⚡ **People change people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
