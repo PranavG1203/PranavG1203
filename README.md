@@ -33,8 +33,9 @@ Here are some technologies and tools I work with:
 
 ## Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=your-repo-name&theme=radical)](https://github.com/PranavG1203/Meta2k25.git)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=another-repo-name&theme=radical)](https://github.com/PranavG1203/Amazon-ML.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Meta2k25&theme=radical)](https://github.com/PranavG1203/Meta2k25)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Amazon-ML&theme=radical)](https://github.com/PranavG1203/Amazon-ML)
+
 
 ## Contribution Graph
 
