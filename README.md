@@ -37,10 +37,6 @@ Here are some technologies and tools I work with:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Amazon-ML&theme=radical)](https://github.com/PranavG1203/Amazon-ML)
 
 
-## Contribution Graph
-
-![PranavG1203's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PranavG1203&theme=redical)
-
 ## Contact Me
 
 Feel free to reach out to me through any of the following:
