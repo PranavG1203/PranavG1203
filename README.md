@@ -1,18 +1,50 @@
-<h1 align="center">Yoo ✌️, I'm Pranav</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavg1203&label=Profile%20views&color=0e75b6&style=flat" alt="pranavg1203" /> </p>
+<div align="center">
+<img src="https://github-widgetbox.vercel.app/api/profile?username=pranavg1203&data=followers,repositories,stars,commits&theme=laser" align="center" style="width: 100%" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavg1203" alt="pranavg1203" /></a> </p>
+# Hi there, I'm PranavG1203 👋
 
-- 📫 How to reach me **pranavg2016@gmail.com**
+![GitHub followers](https://img.shields.io/github/followers/PranavG1203?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/PranavG1203?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-- ⚡ **People change people**
+Welcome to my GitHub profile! I'm a passionate developer always eager to learn and explore new technologies.
 
-<!-- <p align="left"> -->
-<!-- </p> -->
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
+- 🌱 I’m currently learning threeJs & ML
+- 👯 I’m looking to collaborate on anything realted to designing, python libraries , and web development
+- 🤔 I’m looking for help with cryptograhy, and data science projects
+- 📫 How to reach me: pranav2016@gmail.com
+- ⚡ Favourite quote: _People change people_
 
+## Tech Stack
 
+Here are some technologies and tools I work with:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranavg1203&show_icons=true&locale=en" alt="pranavg1203" /></p>
+- **Languages:** Python, Bash, Javascript.
+- **Other:** Docker, Linux.
+
+## GitHub Stats
+
+![PranavG1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavG1203&show_icons=true&theme=radical)
+
+## GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=PranavG1203&theme=onedark&column=4)
+
+## Top Repositories
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=your-repo-name&theme=radical)](https://github.com/PranavG1203/Meta2k25.git)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=another-repo-name&theme=radical)](https://github.com/PranavG1203/Amazon-ML.git)
+
+## Contribution Graph
+
+![PranavG1203's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=PranavG1203&theme=redical)
+
+## Contact Me
+
+Feel free to reach out to me through any of the following:
+
+- Email: [pranavg2016@gmail.com](mailto:pranavg2016@gmail.com)
+- LinkedIn: [Pranavg1203](https://www.linkedin.com/in/pranavg1203/)
+
+Thank you for visiting my profile! Have a great day! 😊
