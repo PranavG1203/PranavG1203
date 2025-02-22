@@ -2,7 +2,7 @@
 <img src="https://github-widgetbox.vercel.app/api/profile?username=pranavg1203&data=followers,repositories,stars,commits&theme=laser" align="center" style="width: 100%" />
 </div>
 
-# Hi there, I'm PranavG1203 👋
+# Holaa!!! I'm Pranav👋
 
 ![GitHub followers](https://img.shields.io/github/followers/PranavG1203?label=Follow&style=social) ![GitHub stars](https://img.shields.io/github/stars/PranavG1203?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
@@ -11,9 +11,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 ## About Me
 
 - 🌱 I’m currently learning threeJs & ML
-- 👯 I’m looking to collaborate on anything realted to designing, python libraries , and web development
-- 🤔 I’m looking for help with cryptograhy, and data science projects
-- 📫 How to reach me: pranav2016@gmail.com
+- 👯 I’m looking to collaborate on anything realted to designing, python libraries and web development
+- 🤔 I’m looking for help with cryptograhy and data science projects
 - ⚡ Favourite quote: _People change people_
 
 ## Tech Stack
@@ -37,7 +36,7 @@ Here are some technologies and tools I work with:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Amazon-ML&theme=radical)](https://github.com/PranavG1203/Amazon-ML)
 
 
-## Contact M
+## Contact Me
 Feel free to reach out to me through any of the following:
 
 - Email: [pranavg2016@gmail.com](mailto:pranavg2016@gmail.com)
