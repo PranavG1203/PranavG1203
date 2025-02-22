@@ -33,12 +33,11 @@ Here are some technologies and tools I work with:
 
 ## Top Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Meta2k25&theme=radical)](https://github.com/PranavG1203/Meta2k25)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Meta_2K25&theme=radical)](https://github.com/PranavG1203/META_2K25.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Amazon-ML&theme=radical)](https://github.com/PranavG1203/Amazon-ML)
 
 
-## Contact Me
-
+## Contact M
 Feel free to reach out to me through any of the following:
 
 - Email: [pranavg2016@gmail.com](mailto:pranavg2016@gmail.com)
