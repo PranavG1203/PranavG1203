@@ -36,6 +36,9 @@ Here are some technologies and tools I work with:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=PranavG1203&repo=Amazon-ML&theme=radical)](https://github.com/PranavG1203/Amazon-ML)
 
 
+## Holopin Stats
+[![An image of @pranavg1203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranavg1203)](https://holopin.io/@pranavg1203)
+
 ## Contact Me
 Feel free to reach out to me through any of the following:
 
