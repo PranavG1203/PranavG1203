@@ -24,7 +24,7 @@ Here are some technologies and tools I work with:
 
 ## GitHub Stats
 
-![PranavG1203's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranavG1203&show_icons=true&theme=radical)
+<p align="center"><a href="https://github.com/PranavG1203"><img src="https://github-readme-stats.vercel.app/api?username=PranavG1203&show_icons=true&theme=radical"/></a></p>
 
 ## GitHub Trophies
 
