@@ -28,7 +28,7 @@ Here are some technologies and tools I work with:
 
 ## GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PranavG1203&theme=onedark&column=4)
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavg1203&theme=dracula&margin-h=30&margin-w=30&column=3&no-bg=true" alt="PG" /></a> </p>
 
 ## Top Repositories
 
