@@ -10,8 +10,8 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## About Me
 
-- 🌱 I’m currently learning threeJs & ML
-- 👯 I’m looking to collaborate on anything realted to designing, python libraries and web development
+- 🌱 I’m currently learning ThreeJs & ML
+- 👯 I’m looking to collaborate on anything related to designing, python libraries and web development
 - 🤔 I’m looking for help with cryptograhy and data science projects
 - ⚡ Favourite quote: _People change people_
 
